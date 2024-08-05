@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginMauiAudioBug", "PluginMauiAudioBug\PluginMauiAudioBug.csproj", "{421448EE-EF98-4DE9-AAE5-ACEEA70BBECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{421448EE-EF98-4DE9-AAE5-ACEEA70BBECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421448EE-EF98-4DE9-AAE5-ACEEA70BBECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421448EE-EF98-4DE9-AAE5-ACEEA70BBECE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{421448EE-EF98-4DE9-AAE5-ACEEA70BBECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421448EE-EF98-4DE9-AAE5-ACEEA70BBECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421448EE-EF98-4DE9-AAE5-ACEEA70BBECE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B24325-2100-40D1-9A1D-7AEA6EF8ED3E}
+	EndGlobalSection
+EndGlobal
